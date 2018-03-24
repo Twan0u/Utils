@@ -4,7 +4,7 @@
 ### Créer un nouvel Utilisateur
 
 ```
-sudo useradd -m -d /home/antoine/ -s /bin/bash antoine
+sudo useradd -m -d /home/user/ -s /bin/bash user
 ```
 
 ### Changer de Mot de Passe
