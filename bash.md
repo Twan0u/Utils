@@ -19,3 +19,9 @@ passwd user
 ```
 ssh-copy-id user@server
 ```
+
+## Disk salvation basics
+
+```
+sudo fsck /ev/sdb1
+```
